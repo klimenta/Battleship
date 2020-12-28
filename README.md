@@ -10,3 +10,5 @@ Save the source as **battleship.go** and start with:
 
 ```go
 go run battleship.go.
+
+Then play by guessing coordinates, e.g. A8 or C3.
