@@ -13,5 +13,6 @@ go run battleship.go.
 ```
 Then play by guessing coordinates, e.g. A8 or C3. 
 Looks like this.
+
 ![Battleship](battleship.png)
 
