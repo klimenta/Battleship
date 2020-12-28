@@ -1,5 +1,5 @@
 # Battleship
-Battleship game in Go as descibed here https://blog.andreev.it/?p=3971
+This is a text-based **Battleship** game in **Go** as descibed here https://blog.andreev.it/?p=3971
 
 I’ve decided to play with the **Go** language and what better way to learn than to give yourself a small task and see if you can make it. 
 So, I’ve made a small variant of the Battleship game. 
@@ -11,4 +11,7 @@ Save the source as **battleship.go** and start with:
 ```go
 go run battleship.go.
 ```
-Then play by guessing coordinates, e.g. A8 or C3.
+Then play by guessing coordinates, e.g. A8 or C3. 
+Looks like this.
+![Battleship](battleship.png)
+
